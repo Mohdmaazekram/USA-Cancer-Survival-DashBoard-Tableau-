@@ -1,6 +1,6 @@
 DashBoard Link : https://public.tableau.com/app/profile/mohd.maaz.ekram6670/viz/USA_DashBoard/USACancerSurvivalDashBoard?publish=yes
 
-In This DashBoard I have Analyse That There are 17 Type of Cancer Such as Lung Cancer,Ovary Cancer,Liver & Etc.
+In This DashBoard I have Analyse That There are 17 Type of Cancer Such as Lung Cancer,Stomach,Liver & Etc.
 * Most of The Cancer Cases Founded in Womens:
    Womens = 51 %
    Men = 49 %
